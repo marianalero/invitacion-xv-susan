@@ -2030,7 +2030,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
+ #gracias{
+  font-size: 25px;
+  font-family: 'Bell MT Std';
+ }
+@media (min-width: 200px) and (max-width: 350px) {
 
+  #gracias{
+    font-size: 18px;
+  }
+}
 
 
 
